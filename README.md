@@ -1,4 +1,4 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Project Zeppelin / WTM Fresno
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
